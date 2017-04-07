@@ -1,2 +1,2 @@
 # imartic.github.io
-https://www.imartic.github.io
+[Visit page](https://www.imartic.github.io)
